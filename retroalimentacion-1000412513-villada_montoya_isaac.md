@@ -30,7 +30,7 @@ Interpretación breve: hubo inicio temprano y buen numero de commits, pero con u
 
 ## Retroalimentación
 
-- Archivo revisado: proyecto_meccel.ipynb
+- Archivo revisado: proyecto_meccel.ipynb (no cambiar el nombre del archivo)
 
 ### Aspectos positivos
 
