@@ -56,6 +56,6 @@ Interpretación breve: hubo inicio temprano y buen numero de commits, pero con u
 - Mejoras implementadas: 4.38 (70%)
 - Aplicación al repositorio: 3.75 (10%)
 - Aspectos positivos: 4.00 (10%)
-- Valoración global: 3.75 (10%)
+- Valoración global: 4.50 (10%)
 
-**Nota final (redondeada)**: 0.7×4.38 + 0.1×3.75 + 0.1×4.00 + 0.1×3.75 = (redondeado) 4.2
+**Nota final (redondeada)**: 0.7×4.38 + 0.1×3.75 + 0.1×4.00 + 0.1×4.50 = (redondeado) 4.3
